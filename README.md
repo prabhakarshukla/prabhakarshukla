@@ -47,16 +47,25 @@
 
 ---
 
-## Tech Stack
+## Stacks
 
 **Languages**
-`C` · `C++` · `Java` · `Python` · `JavaScript`
 
-**Web**
-`HTML` · `CSS` · `React` · `Next.js` · `Tailwind CSS`
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css&theme=dark" />
+</p>
 
-**Tools & Platforms**
-`Git` · `GitHub` · `VS Code` · `Supabase`
+**Frameworks & Libraries**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,vite&theme=dark" />
+</p>
+
+**Design Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr&theme=dark" />
+</p>
 
 ---
 
@@ -82,10 +91,24 @@
 
 ---
 
+## Snake
+
+<div align="center">
+
+![snake gif](https://github.com/prabhakarshukla/prabhakarshukla/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 ## Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prabhakar-shukla-90334b399">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://instagram.com/prabhakar_.shukla">Instagram</a> &nbsp;·&nbsp;
-  <a href="https://github.com/prabhakarshukla">GitHub</a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhakar-shukla-90334b399)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prabhakar_.shukla)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabhakarshukla669@gmail.com)
+
+</div>
