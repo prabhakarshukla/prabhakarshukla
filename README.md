@@ -90,16 +90,11 @@
 </div>
 
 ---
+## 🐍 Contribution Snake
 
-## Snake
-
-<div align="center">
-
-![snake gif](https://github.com/prabhakarshukla/prabhakarshukla/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prabhakarshukla/prabhakarshukla/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ## Connect
 
