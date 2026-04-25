@@ -1,8 +1,8 @@
 <div align="center">
 
-# Prabhakar
+# Prabhakar Shukla
 
-**BTech CSE (AI/ML) · Frontend Developer · learning backend · GSSoC'26**
+**BTech CSE (AI/ML) · Full Stack Developer · GSSoC'26**
 
 </div>
 
@@ -10,27 +10,40 @@
 
 ## About Me
 
-- Building **EduFlow AI** — an intelligent platform for student productivity with AI-powered tools
-- Exploring the intersection of **Full Stack Development** and **Artificial Intelligence / Machine Learning**
-- Focused on writing clean, scalable code and shipping real-world projects
-- Open source contributor and lifelong learner
+- Currently building **EduFlow AI** — an AI-powered SaaS platform designed to transform how students learn and stay productive
+- Learning **Full Stack Development** and diving deeper into **AI/ML** to build smarter, more impactful products
+- Long-term goal: create SaaS products that solve real problems at scale
+- Passionate about combining **technology and creativity** — from writing clean code to capturing moments through photography
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### EduFlow AI
 
-> An AI-powered academic companion designed to help students learn smarter.
+> An intelligent academic companion that helps students plan, learn, and stay on track — powered by AI.
 
 | Feature | Description |
 |---|---|
 | Study Planner | Smart scheduling and goal-based study plans |
 | AI Doubt Solver | Instant subject-specific doubt resolution |
-| Notes Generator | Auto-generate structured notes from topics |
+| Notes Generator | Auto-generate structured notes from any topic |
 | Productivity Tracker | Track study streaks and learning progress |
 
 **Tech Stack:** `Next.js` · `Tailwind CSS` · `Supabase` · `AI APIs`
+
+---
+
+### Photography Portfolio
+
+> A modern, animated portfolio built to tell a visual story — clean, immersive, and fully responsive.
+
+- Minimal aesthetic UI crafted for visual storytelling
+- Smooth, fluid animations powered by Framer Motion
+- Curated gallery featuring 15+ images
+- Fully responsive across all devices
+
+**Tech Stack:** `Next.js` · `Tailwind CSS` · `Framer Motion`
 
 ---
 
