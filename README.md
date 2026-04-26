@@ -64,7 +64,12 @@
 **Design Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,framer,canva&theme=dark" />
+  **Design Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+  <img src="https://cdn.simpleicons.org/framer/ffffff" height="48" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" />
 </p>
 
 ---
