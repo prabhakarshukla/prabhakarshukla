@@ -58,13 +58,15 @@
 **Frameworks & Libraries**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&theme=dark" />
 </p>
 
 **Design Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ---
