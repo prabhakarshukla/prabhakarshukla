@@ -29,6 +29,21 @@
 | AI Doubt Solver | Instant subject-specific doubt resolution |
 | Notes Generator | Auto-generate structured notes from any topic |
 | Productivity Tracker | Track study streaks and learning progress |
+| Mood Tracker | Personalized study suggestions based on your mood and energy level |
+
+
+### Highlights
+
+- AI-powered multi-agent system (Planner, Doubt Solver, Productivity, Mood)
+- Real-time data handling with Supabase
+- Clean, modern SaaS UI with responsive design
+- Light/Dark mode toggle with persistent user preference (localStorage)
+- Study streak system to build daily consistency habits
+- Weekly productivity graph for visual progress tracking
+- Features like PDF export & shareable notes links
+- Browser notifications & smart reminders
+
+---
 
 **Tech Stack:** `Next.js` · `Tailwind CSS` · `Supabase` · `AI APIs`
 
