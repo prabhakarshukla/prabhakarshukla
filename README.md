@@ -1,7 +1,6 @@
 <div align="center">
 
 # Prabhakar Shukla
-
 **BTech CSE (AI/ML) · Full Stack Developer · GSSoC'26**
 
 </div>
@@ -20,7 +19,6 @@
 ## Featured Projects
 
 ### EduFlow AI
-
 > An intelligent academic companion that helps students plan, learn, and stay on track — powered by AI.
 
 | Feature | Description |
@@ -31,26 +29,21 @@
 | Productivity Tracker | Track study streaks and learning progress |
 | Mood Tracker | Personalized study suggestions based on your mood and energy level |
 
-
 ### Highlights
-
 - AI-powered multi-agent system (Planner, Doubt Solver, Productivity, Mood)
 - Real-time data handling with Supabase
 - Clean, modern SaaS UI with responsive design
-- Light/Dark mode toggle with persistent user preference (localStorage)
+- Light/Dark mode toggle with persistent user preference
 - Study streak system to build daily consistency habits
 - Weekly productivity graph for visual progress tracking
-- Features like PDF export & shareable notes links
+- PDF export & shareable notes links
 - Browser notifications & smart reminders
-
----
 
 **Tech Stack:** `Next.js` · `Tailwind CSS` · `Supabase` · `AI APIs`
 
 ---
 
 ### Photography Portfolio
-
 > A modern, animated portfolio built to tell a visual story — clean, immersive, and fully responsive.
 
 - Minimal aesthetic UI crafted for visual storytelling
@@ -65,19 +58,16 @@
 ## Stacks
 
 **Languages**
-
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css&theme=dark" />
 </p>
 
 **Frameworks & Libraries**
-
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&theme=dark" />
 </p>
 
 **Design Tools**
-
 <p>
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
   <img src="https://cdn.simpleicons.org/framer/ffffff" height="48" />
@@ -89,11 +79,9 @@
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prabhakarshukla&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="160" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhakarshukla&theme=github-dark-blue&hide_border=true" height="160" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhakarshukla&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="160" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=prabhakarshukla&theme=github-dark-blue&hide_border=true" height="160" />
 </div>
 
 ---
@@ -101,9 +89,7 @@
 ## Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhakarshukla&theme=github-compact&hide_border=true&area=true" width="100%" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhakarshukla&theme=github-compact&hide_border=true&area=true" width="100%" />
 </div>
 
 ## 🐍 Contribution Snake
@@ -111,6 +97,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/prabhakarshukla/prabhakarshukla/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+---
 
 ## Connect
 
