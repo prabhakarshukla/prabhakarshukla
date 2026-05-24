@@ -110,9 +110,9 @@ tures
 # 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhakarshukla&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="160" />&nbsp;&nbsp;<img src="https://streak-stats.demolab.com?user=prabhakarshukla&theme=github-dark-blue&hide_border=true&v=2" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhakarshukla&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="160" />&nbsp;&nbsp;<img src="https://streak-stats.demolab.com?user=prabhakarshukla&theme=github-dark-blue&hide_border=true&date=20260524" height="160" />
 </div>
----
+
 
 #  Contribution Graph
 
