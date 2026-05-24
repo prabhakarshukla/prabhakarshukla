@@ -108,13 +108,10 @@ tures
 ---
 
 # GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhakarshukla&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" height="160" />
 
-  &nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhakarshukla&theme=github_dark" />
 
-  <img src="https://streak-stats.demolab.com?user=prabhakarshukla&theme=github-dark-blue&hide_border=true&cache_seconds=1800" height="160" />
 </div>
 
 
