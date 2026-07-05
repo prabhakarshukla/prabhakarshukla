@@ -147,13 +147,10 @@ tures
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prabhakarshukla&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhakarshukla&theme=github-dark&hide_border=true"/>
 
 <br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhakarshukla&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhakarshukla&theme=github-compact&hide_border=true&area=true" />
 </div>
 
 
