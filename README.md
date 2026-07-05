@@ -153,8 +153,7 @@ tures
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakarshukla&layout=compact&theme=github_dark&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhakarshukla&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
 
