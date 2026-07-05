@@ -150,7 +150,6 @@ tures
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhakarshukla&theme=github-dark&hide_border=true"/>
 
 <br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhakarshukla&theme=github-compact&hide_border=true&area=true" />
 </div>
 
 
