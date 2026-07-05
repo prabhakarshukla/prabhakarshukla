@@ -2,7 +2,7 @@
 
 # Prabhakar Shukla
 
-### BTech CSE (AI/ML) · Full Stack Developer · GSSoC'26
+### B.Tech CSE (AI & ML) · Full Stack Developer · AI Engineering Intern · SSoC 2026 Project Admin
 
 <p>
   <a href="https://www.linkedin.com/in/prabhakar-shukla-90334b399">
@@ -24,12 +24,22 @@
 
 #  About Me
 
-- Building **EduFlow AI** — an AI-powered SaaS platform for smarter learning & productivity
-- Exploring **Full Stack Development** and **AI/ML**
-- Passionate about building scalable SaaS products solving real-world problems
-- Love combining **technology + creativity** through coding and photography
+-  Building **AI-powered web applications** with modern full-stack technologies.
+-  Currently developing **EduFlow AI**, an AI-powered SaaS platform for smarter learning and productivity.
+-  Exploring **Full Stack Development**, **Artificial Intelligence**, and **Machine Learning**.
+-  Passionate about solving real-world problems through scalable software.
+-  Beyond coding, I enjoy photography and designing clean, user-friendly interfaces.
 
 ---
+
+---
+
+#  Achievements
+-  Project Admin — Social Summer of Code (SSoC) 2026
+-  Frontend AI Engineering Intern — FlyRank AI
+-  Web Development Intern — SkillCraft Technology
+-  B.Tech CSE (AI & ML) @ SRM University AP
+-  Building EduFlow AI, an AI-powered SaaS platform
 
 #  Featured Projects
 
@@ -47,18 +57,19 @@
 
 ###  Highlights
 
-- Multi-agent AI system
+-  Multi-Agent AI Architecture
   - Planner Agent
-  - Doubt Solver Agent
+  - AI Doubt Solver
   - Productivity Agent
   - Mood Agent
-- Real-time database handling with Supabase
-- Modern responsive SaaS UI
-- Persistent Light/Dark Mode
-- Study streak system
-- Weekly productivity analytics
-- PDF export & shareable notes
-- Browser notifications & reminders
+-  Secure Authentication & Protected Routes
+-  AI Notes Generator
+-  PDF Export & Shareable Notes
+-  Productivity Dashboard & Analytics
+-  Persistent Light/Dark Theme
+-  Browser Notifications & Study Reminders
+-  Real-time Database with Supabase
+-  Fully Responsive SaaS Interface
 
 ###  Tech Stack
 
@@ -66,16 +77,37 @@
 
 ---
 
+---
+
+##  DSA Visualizer
+
+> An interactive platform for learning Data Structures and Algorithms visually.
+
+### Features
+
+-  Interactive algorithm visualizations
+-  Tree and Graph traversal animations
+-  Clean and responsive UI
+-  Beginner-friendly learning experience
+
+### Tech Stack
+
+`Next.js` · `TypeScript` · `Tailwind CSS` · `Framer Motion`
+
+---
+
+
 ##  Photography Portfolio
 
 > A modern animated portfolio focused on visual storytelling.
 tures
 
-- Minim
-### Feaal premium UI
+### Features
+
+- Minimal premium UI
 - Smooth Framer Motion animations
 - Responsive gallery experience
-- Optimized across devices
+- Optimized across all devices
 
 ###  Tech Stack
 
@@ -107,10 +139,21 @@ tures
 
 ---
 
-# GitHub Stats
+#  GitHub Stats
+
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhakarshukla&theme=github_dark" />
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prabhakarshukla&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhakarshukla&theme=github-dark&hide_border=true"/>
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakarshukla&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -166,6 +209,6 @@ tures
 
 <div align="center">
 
-###  Building AI-powered products with clean UI & scalable systems
+###  Building AI-powered products that solve real-world problems.
 
 </div>
